@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Laboratornaya_1_Parallel_Calculations/Laboratornaya_1_Parallel_Calculations.vcxproj" Id="ef335d4f-1a1c-497d-a3a2-08a952cd3917" />
+</Solution>
